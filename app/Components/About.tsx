@@ -1,6 +1,5 @@
 import React from 'react'
 import pic1 from './icons/pic1.png'
-import pic2 from './icons/pic2.png'
 export default function About() {
   return (
     <div>
